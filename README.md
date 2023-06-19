@@ -2,9 +2,9 @@
 
 Hello and welcome to this project! I am a passionate developer about creating innovative solutions to real-world problems. 
 
-Pramod Kumar Jangid, Team Lead (Linkedin Profile:- [pramodjangid](https://www.linkedin.com/in/pramodjangid))
+Pramod Kumar Jangid, (Linkedin Profile:- [pramodjangid](https://www.linkedin.com/in/pramodjangid))
 
-As a Developer, i bring a diverse set of skills and experiences to the table, which allows us to approach problems from multiple perspectives and develop creative solutions that meet the needs of our users.
+As a Developer, i bring a diverse set of skills and experiences to the table, which allows me to approach problems from multiple perspectives and develop creative solutions that meet the needs of our users.
 
 I am excited to share this work with you and hope that you find this project useful and informative. This is a indvidual Project made by an Aspiring Developer from Masai School in the Construct Week within 5 Days. Please feel free to reach out to me with any questions or feedback you may have.
 
