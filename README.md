@@ -19,6 +19,35 @@ In the world of backend systems, efficiency, scalability, and flexibility are pa
 
 
 
+### The application involves three primary roles:
+
+- Administrator
+- Travel Agent
+- Traveler
+
+### **Administrator Role:**
+
+- Log into the platform
+- Manage user accounts
+- Manage access permissions for coustomers
+- Update and maintain travel information, including destinations
+
+
+### **Travel Agent Role:**
+
+- Can add new Packages
+- Upadate TourPackages
+- Delete a Package
+
+
+### **Traveler Role:**
+
+- Signup
+- Login
+- Booking a Package
+- Check Wallet Balance
+
+  
 
 💻 Tech Stack
 
